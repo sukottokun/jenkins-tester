@@ -1,3 +1,5 @@
+# This comment is meant to create a trivial change, so that we can test Jenkins. If found in some far-distant future, please feel free to delete it. The comment that is, not the entire file. Although I suppose I can't stop you from doing that, or anything else. I just think it would probably be a bad idea to delete the entire file, is all.
+
 api_version: 1
 web_docroot: true
 php_version: 7.0
